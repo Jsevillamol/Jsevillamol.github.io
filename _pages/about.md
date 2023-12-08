@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  <a href='https://epochai.org/'>Epoch </a>
-  <a href='https://riesgoscatastroficosglobales.com/'>Observatorio de Riesgos Catastróficos Globales </a>
+  <a href='https://epochai.org/'>Epoch </a> – 
+  <a href='https://riesgoscatastroficosglobales.com/'>Observatorio de Riesgos Catastróficos Globales </a> – 
   <a href='https://www.cser.ac.uk/'>CSER <a href='#'>Affiliations</a>.
 
 profile:
