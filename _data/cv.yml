@@ -65,7 +65,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://gitlab.nl4xai.eu/jaime.sevilla/explainbn">al-folio</a>
+    - title: <a href="https://gitlab.nl4xai.eu/jaime.sevilla/explainbn">explainbn</a>
       year: 2021
       description: 
           Open source tool to generate explanations of PGMPy Bayesian Networks.
