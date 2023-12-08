@@ -17,15 +17,15 @@
       description:
         - NL4XAI Early Stage Researcher
         - Marie Skłodowska-Curie grant from the European Commission
-        - Main subject of study: Explainability in Bayesian Networks
-        - Notable contribution: <a href="https://arxiv.org/abs/2112.00799">Finding, Scoring and Explaining Arguments in Bayesian Networks</a>
+        - Main subject of study':' Explainability in Bayesian Networks
+        - Notable contribution':' <a href="https://arxiv.org/abs/2112.00799">Finding, Scoring and Explaining Arguments in Bayesian Networks</a>
         - Paused in 2022
     - title: BSc Mathematics and BSc Computer Engineering
       institution: Universidad Complutense de Madrid, Spain
       year: 2019
       description:
-        - Five year double degree
-        - Notable contribution: <a href="https://arxiv.org/abs/1912.09877">CTLearn: Deep Learning for Gamma-ray Astronomy</a>
+        - Five-year double degree
+        - Notable contribution':' <a href="https://arxiv.org/abs/1912.09877">CTLearn: Deep Learning for Gamma-ray Astronomy</a>
     - title: Deep Learning Specialization
       institution: deeplearning.ai
       year: 2018
@@ -38,13 +38,13 @@
       year: 2022 - now
       description:
         - Research institute investigating trends in AI
-        - Notable contribution: <a href="https://epochai.org/blog/compute-trends">Compute Trends Across Three Eras of Machine Learning</a>
+        - Notable contribution':' <a href="https://epochai.org/blog/compute-trends">Compute Trends Across Three Eras of Machine Learning</a>
     - title: Interim Director & Co-Founder
       institution: <a href="https://riesgoscatastroficosglobales.com/">Observatorio de Riesgos Catastróficos Globales</a>
       year: 2021 - now
       description:
         - Science-policy organization promoting better management of global risks in Spanish-Speaking countries.
-        - Notable contribution: <a href="https://riesgoscatastroficosglobales.com/articulos/informe-gestin-de-riesgos-de-la-inteligencia-artificial-en-espaa">Gestión de riesgos de la inteligencia artificial en España</a>
+        - Notable contribution':' <a href="https://riesgoscatastroficosglobales.com/articulos/informe-gestin-de-riesgos-de-la-inteligencia-artificial-en-espaa">Gestión de riesgos de la inteligencia artificial en España</a>
 
     - title: Research Affiliate
       institution: <a href="https://www.cser.ac.uk/team/jaime-sevilla/">Center for the Study of Existential Risks, Cambridge University</a>
@@ -69,7 +69,7 @@
       year: 2021
       description: 
           Open source tool to generate explanations of PGMPy Bayesian Networks.
-          Associated publication: <a href="https://arxiv.org/abs/2112.00799"><i>Finding, Scoring and Explaining Arguments in Bayesian Networks</i></a>
+          Associated publication':' <a href="https://arxiv.org/abs/2112.00799"><i>Finding, Scoring and Explaining Arguments in Bayesian Networks</i></a>
 
 - title: Grants, Honors and Awards
   type: time_table
