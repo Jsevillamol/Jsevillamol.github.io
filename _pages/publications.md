@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Some of my intellectual work.
+description: Highlights of my intellectual work.
 nav: true
 nav_order: 1
 ---
