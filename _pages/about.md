@@ -24,6 +24,6 @@ Background in Mathematics and Computer Science.
 I study trends in Machine Learning at [Epoch AI](https://epochai.org/).  
 I aim to deliver a scientific understanding of what is driving innovation in AI, and sketch the path of the technology in future decades.
 
-I also strive towards better management of global risk through my roles as director of the [Observatorio de Riesgos Catastróficos Globales](https://riesgoscatastroficosglobales.com/) and research affiliate to the [Center for the Study of Existential Risk](https://www.cser.ac.uk/) of Cambridge University.
+I also strive towards better management of global risk through my roles as advisor of the [Observatorio de Riesgos Catastróficos Globales](https://riesgoscatastroficosglobales.com/) and research affiliate to the [Center for the Study of Existential Risk](https://www.cser.ac.uk/) of Cambridge University.
 
 Learn more about my work in ['The Researcher Trying to Glimpse the Future of AI'](https://time.com/6985850/jaime-sevilla-epoch-ai/), by Will Henshall of TIME.
