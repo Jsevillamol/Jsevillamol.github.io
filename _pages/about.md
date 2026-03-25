@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  <a href='https://epochai.org/'>Epoch AI</a> –
-  <a href='https://riesgoscatastroficosglobales.com/'>Observatorio de Riesgos Catastróficos Globales </a>
+  <a href='https://epochai.org/'>Epoch AI</a>
 
 profile:
   align: right
